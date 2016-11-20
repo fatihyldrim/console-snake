@@ -1,0 +1,6 @@
+C:\Users\Ft\Desktop\C#__\ConsoleYilan\yilantiss\bin\Debug\yilantiss.exe.config
+C:\Users\Ft\Desktop\C#__\ConsoleYilan\yilantiss\bin\Debug\yilantiss.exe
+C:\Users\Ft\Desktop\C#__\ConsoleYilan\yilantiss\bin\Debug\yilantiss.pdb
+C:\Users\Ft\Desktop\C#__\ConsoleYilan\yilantiss\obj\Debug\yilantiss.exe
+C:\Users\Ft\Desktop\C#__\ConsoleYilan\yilantiss\obj\Debug\yilantiss.pdb
+C:\Users\Ft\Desktop\C#__\ConsoleYilan\yilantiss\obj\Debug\yilantiss.csprojResolveAssemblyReference.cache
